@@ -11,3 +11,4 @@
     product security engineer
     ## ***Language***:
     English: pre-intermediate
+    Russian: native
